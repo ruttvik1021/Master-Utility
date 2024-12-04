@@ -100,7 +100,7 @@ function checkDate() {
     if ((z1 > 2200 || z1 < 1900) || (x1 <= 0 || x1 > 31) || (y1 < 1 || y1 > 12)) {
         alert("Not Valid");
     } else {
-        alert("V alid")
+        alert("Valid")
     }
 }
 
